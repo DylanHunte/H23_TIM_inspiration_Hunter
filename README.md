@@ -2,3 +2,6 @@
 Nom de l'exposition: Mutation BIAN 6
 Nom de l'oeuvre: RÉSONANCES
 Nom de l'artiste: Louis-Philippe Rondeau
+Description de l'oeuvre:
+Type d'installation: Interactive
+Mise en espace:
