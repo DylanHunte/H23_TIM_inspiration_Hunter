@@ -2,7 +2,10 @@
 **Nom de l'exposition:**
 Mutation BIAN 6
 
+**Lieu de mise en exposition**
+
 **Type d'exposition:**
+Intérieure
 
 **Date de votre visite:**
 3 Février 2023 - 03/02/2023 
