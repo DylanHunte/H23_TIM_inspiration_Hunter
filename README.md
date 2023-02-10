@@ -28,6 +28,6 @@ Louis-Philippe Rondeau
 
 **Expérience vécue:**
 
-**Ce qui vous a plu, vous a donné des idées:**
+**Ce qui m'a plu, m'a donné des idées:**
 
 **Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications:**
