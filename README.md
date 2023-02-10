@@ -25,6 +25,7 @@ Louis-Philippe Rondeau
 **Composantes et techniques:**
 
 **Éléments nécessaires à la mise en exposition:**
+caméra, écran, ordinateur,
 
 **Expérience vécue:**
 
