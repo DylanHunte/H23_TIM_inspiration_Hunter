@@ -2,6 +2,10 @@
 **Nom de l'exposition:**
 Mutation BIAN 6
 
+**Type d'exposition:**
+
+**Date de votre visite:**
+3 Février 2023 - 03/02/2023 
 **Nom de l'oeuvre:**
 RÉSONANCES
 
