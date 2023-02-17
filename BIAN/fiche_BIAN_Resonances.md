@@ -21,6 +21,7 @@ Louis-Philippe Rondeau
 2021
 
 **Description de l'oeuvre:**
+![manuel_resonances_texte](Media/Manuel_resonances_texte.jpg)
 
 **Type d'installation: Interactive**
 ![manuel_resonances_image](Media/Manuel_resonances_image.jpg)
