@@ -26,6 +26,7 @@ Louis-Philippe Rondeau
 
 **Mise en espace:**
 ![pov_droite](Media/Resonances_POVDroite.jpg)
+![pov_face](Media/Resonances_POVface.jpg)
 **Composantes et techniques:**
 
 **Éléments nécessaires à la mise en exposition:**
