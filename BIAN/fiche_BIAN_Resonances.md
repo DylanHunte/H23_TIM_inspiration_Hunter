@@ -23,6 +23,7 @@ Louis-Philippe Rondeau
 **Description de l'oeuvre:**
 
 **Type d'installation: Interactive**
+![manuel_resonances_image](Media/Manuel_resonances_image.jpg)
 
 **Mise en espace:**
 ![pov_droite](Media/Resonances_POVDroite.jpg)
