@@ -1,7 +1,7 @@
 # BIAN
 **Nom de l'exposition:**
 Mutation BIAN 6
-
+![affiche](Media/Affiche_Resonances.jpg)
 **Lieu de mise en exposition**
 
 **Type d'exposition:**
