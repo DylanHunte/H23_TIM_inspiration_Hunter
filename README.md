@@ -10,8 +10,9 @@ Intérieure
 **Date de votre visite:**
 3 Février 2023 - 03/02/2023 
 
-**Nom de l'oeuvre:**
+**titre de l'oeuvre:**
 RÉSONANCES
+[Resonances_vue_ensemble.jpg](https://github.com/DylanHunte/H23_TIM_inspirations_Hunter/blob/e9329cde89ff12e12fcedf9bdc398c25c664b548/Resonances_vue_ensemble.jpg)
 
 **Nom de l'artiste:**
 Louis-Philippe Rondeau
