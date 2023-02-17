@@ -32,7 +32,9 @@ Louis-Philippe Rondeau
 
 caméra
 ![camera](Media/Camera.jpg)
-écran, ordinateur,
+écran,
+ordinateur
+![ordinateur](Media/Ordi_resonances_zoom.jpg)
 
 **Expérience vécue:**
 
