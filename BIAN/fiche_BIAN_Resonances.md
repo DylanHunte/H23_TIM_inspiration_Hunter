@@ -25,7 +25,7 @@ Louis-Philippe Rondeau
 **Type d'installation: Interactive**
 
 **Mise en espace:**
-
+![pov_droite](Media/Resonances_POVDroite.jpg)
 **Composantes et techniques:**
 
 **Éléments nécessaires à la mise en exposition:**
