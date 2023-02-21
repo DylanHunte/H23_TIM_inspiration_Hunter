@@ -40,7 +40,7 @@ ordinateur
 ![ordinateur](Media/Ordi_resonances_zoom.jpg)
 
 **Expérience vécue:**
-
+https://youtu.be/j8OxmzXTF3A
 **Ce qui m'a plu, m'a donné des idées:**
 
 **Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications:**
