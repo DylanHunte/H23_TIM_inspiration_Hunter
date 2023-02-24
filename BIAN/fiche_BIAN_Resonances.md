@@ -42,7 +42,9 @@ ordinateur
 
 **Expérience vécue:**
 https://youtu.be/j8OxmzXTF3A
+La personne doive passé devant la caméra et sa va vers l'écran.
 
 **Ce qui m'a plu, m'a donné des idées:**
 La façon donc l'artist a réussi de donner l'illusion d'une personne comme une peinture sur l'écran géant.
 **Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications:**
+Sûrement faire le code pour plusieur options puisque sa prendrait beaucoup de temps et le fichier a des chances de devenir trop gros.
