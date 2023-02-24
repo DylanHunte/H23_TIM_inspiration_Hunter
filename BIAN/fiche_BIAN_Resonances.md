@@ -21,6 +21,7 @@ Louis-Philippe Rondeau
 2021
 
 **Description de l'oeuvre:**
+Un écran géant qui quand une personne passe devant la caméra utilisé, s'affiche au mur comme un graffiti
 ![manuel_resonances_texte](Media/Manuel_resonances_texte.jpg)
 
 **Type d'installation: Interactive**
@@ -43,5 +44,5 @@ ordinateur
 https://youtu.be/j8OxmzXTF3A
 
 **Ce qui m'a plu, m'a donné des idées:**
-
+La façon donc l'artist a réussi de donner l'illusion d'une personne comme une peinture sur l'écran géant.
 **Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications:**
